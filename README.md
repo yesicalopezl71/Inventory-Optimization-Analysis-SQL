@@ -36,3 +36,4 @@ A través de **DAX**, se implementaron métricas de alto nivel:
 
 ---
 **LinkedIn:** https://www.linkedin.com/in/yesica-l%C3%B3pez-497690339/
+**PowerBI** https://app.powerbi.com/view?r=eyJrIjoiMmI0NGNlM2YtOTRlNy00YmQwLWE1MzEtOGM2MDkxNzc4MmJhIiwidCI6IjAwNTRhYWU4LWU0YTUtNDRlYy1iZDg5LWJlNDkyYmU5NGU1NyIsImMiOjR9
