@@ -17,7 +17,7 @@ El trabajo técnico se dividió en tres fases críticas documentadas en los scri
 2.  **Limpieza:** Estandarización de categorías y tratamiento de valores atípicos.
 3.  **Modelado:** Diseño de un **Esquema Estrella (Star Schema)** para maximizar el rendimiento analítico.
 
- **[Descargar Scripts SQL aquí](./SQL_Velocity_Inventory.zip)**
+ **(./SQL_Velocity_Inventory.zip)**
 
 ---
 
